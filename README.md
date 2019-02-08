@@ -44,3 +44,5 @@ to adjust to your own preference:
  - The corresponding CSS, JS and image files are located in the corresponding 
   `public\assets\templates` folder
   
+  
+  
