@@ -11,3 +11,11 @@ Open Source Blog CMS based on Laravel 5.7.x
 >Copyright 2019 Alvin Bakker - Curacao
 
 Please Do NOT download this repository yet, as I am just starting
+
+## How to setup
+
+After cloning this repository, please run: 
+ - Run `composer update` from command prompt
+ - Setup database
+ - Copy .env.example to .env and add databse login info
+ - Run `php artisan migrate` from command prompt
