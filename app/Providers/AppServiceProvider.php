@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Schema;
 
 class AppServiceProvider extends ServiceProvider {
 
-    public $version = "0.0.1";
+    public $version = "0.0.2";
 
     public function boot() {
         Schema::defaultStringLength(191);
