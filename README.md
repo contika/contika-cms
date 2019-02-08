@@ -31,7 +31,7 @@ Please enjoy! Any feedback is very well appreciated.
 After cloning this repository, please follow these steps: 
  - Run `composer update` from command prompt
  - Setup database
- - Copy .env.example to .env and add databse login info
+ - Copy .env.example to .env and add database login info
  - Run `php artisan migrate` from command prompt
  
 ***********************************************************************************
@@ -40,6 +40,6 @@ As Laravel uses blades I will create this CMS using multiple templates. With a
 little knowledge of HTML (Blade templating) and CSS these templates are easy 
 to adjust to your own preference:
 
- - Front end blades are located in the `/app/Views/templates` folder
+ - Front end blades are located in the `app\Views\templates` folder
  - The corresponding CSS, JS and image files are located in the corresponding 
   `public\assets\templates` folder
