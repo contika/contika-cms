@@ -43,3 +43,4 @@ to adjust to your own preference:
  - Front end blades are located in the `app\Views\templates` folder
  - The corresponding CSS, JS and image files are located in the corresponding 
   `public\assets\templates` folder
+  
