@@ -3,8 +3,9 @@
 # contika-cms
 Open Source Blog CMS based on Laravel 5.7.x
 
-[![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=flat-square)](LICENSE.md)
-![Version](https://img.shields.io/badge/version-beta0.0.2-brightgreen.svg?style=flat-square)
+[![Software License](https://img.shields.io/badge/license-GNU-blue.svg?style=flat-square)](LICENSE.md)
+![Version](https://img.shields.io/badge/version-0.0.2-brightgreen.svg?style=flat-square)
+![Laravel](https://img.shields.io/badge/laravel-5.7.25-brightgreen.svg?style=flat-square)
 
 >Developed by Alvin Bakker<br />
 >Logo design by Anoep Chowhari<br />
